@@ -12,3 +12,7 @@ release.properties
 /.settings/
 /.classpath
 /.project
+
+/.idea
+/*.iml
+
